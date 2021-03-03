@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/form-with-4tabs/static/css/main.b5c55ba7.chunk.css",
+    "main.js": "/form-with-4tabs/static/js/main.932b3a94.chunk.js",
+    "main.js.map": "/form-with-4tabs/static/js/main.932b3a94.chunk.js.map",
+    "runtime-main.js": "/form-with-4tabs/static/js/runtime-main.79c07b5c.js",
+    "runtime-main.js.map": "/form-with-4tabs/static/js/runtime-main.79c07b5c.js.map",
+    "static/css/2.150d169a.chunk.css": "/form-with-4tabs/static/css/2.150d169a.chunk.css",
+    "static/js/2.3f38f25a.chunk.js": "/form-with-4tabs/static/js/2.3f38f25a.chunk.js",
+    "static/js/2.3f38f25a.chunk.js.map": "/form-with-4tabs/static/js/2.3f38f25a.chunk.js.map",
+    "static/js/3.67dca484.chunk.js": "/form-with-4tabs/static/js/3.67dca484.chunk.js",
+    "static/js/3.67dca484.chunk.js.map": "/form-with-4tabs/static/js/3.67dca484.chunk.js.map",
+    "index.html": "/form-with-4tabs/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/form-with-4tabs/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b5c55ba7.chunk.css.map": "/form-with-4tabs/static/css/main.b5c55ba7.chunk.css.map",
+    "static/js/2.3f38f25a.chunk.js.LICENSE.txt": "/form-with-4tabs/static/js/2.3f38f25a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/form-with-4tabs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79c07b5c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3f38f25a.chunk.js",
+    "static/css/main.b5c55ba7.chunk.css",
+    "static/js/main.932b3a94.chunk.js"
+  ]
+}

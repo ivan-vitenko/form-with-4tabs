@@ -1,0 +1,12 @@
+.AdForm {
+  max-width: 700px;
+}
+
+.TabContent {
+  padding: 24px;
+  height: 300px;
+}
+
+.Warning {
+  text-align: left;
+}
